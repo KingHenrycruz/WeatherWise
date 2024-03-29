@@ -4,9 +4,9 @@
 
 WeatherWise is a weather information application that provides real-time weather updates for cities around the world. This project was developed as a part of the Holberton School portfolio.
 
-- [Deployed Site](#) 
-- [Final Project Blog Article](#) https://www.linkedin.com/pulse/weatherwise-your-weather-way-kinghenry-ize-nz4sf
-- Author(s): [KingHenry D' Great](#) https://www.linkedin.com/in/kinghenrycruz
+- [Deployed Site](https://weatherwise-p54c.onrender.com) 
+- [Final Project Blog Article](https://www.linkedin.com/pulse/weatherwise-your-weather-way-kinghenry-ize-nz4sf)
+- Author(s): [KingHenry D' Great](#) <https://www.linkedin.com/in/kinghenrycruz>
 
 ## Installation
 
